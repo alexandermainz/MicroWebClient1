@@ -1,2 +1,4 @@
-# MicroWebClient1
-A minimal Web-Client-Application to call the via AAD B2C authentication secured "WeatherForecast" API
+# WebClient1
+A minimal Web-Client-Application to call a secured "WeatherForecast" sample API.
+
+for Windows Developer 10.2020
